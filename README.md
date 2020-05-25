@@ -1,4 +1,4 @@
-# EMMMA-K_Master
+# EMMMA-K_Slave
 This is the code for the EMMMA-K Slave processor.
 
 Please see the project description on my website:
